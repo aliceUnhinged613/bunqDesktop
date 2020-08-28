@@ -137,7 +137,7 @@
         "glob": "^7.1.2",
         "i18next": "^10.6.0",
         "i18next-xhr-backend": "^1.5.1",
-        "upath": "1.0.5"
+        "upath": "1.2.0"
     },
     "devDependencies": {
         "@babel/cli": "^7.7.7",
